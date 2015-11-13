@@ -34,7 +34,7 @@ p {
   }
 }
 a {
-  color: #46bba8;
+  color: #53C6E0;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -42,7 +42,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #2a7166;
+  color: #AFD5DE;
 }
 .light {
   font-weight: 400;
@@ -253,15 +253,15 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #46bba8;
+  border: 1px solid #53C6E0;
   outline: none;
   color: black;
-  background-color: #46bba8;
+  background-color: #53C6E0;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #46bba8;
-  color: #46bba8;
+  border: 1px solid #53C6E0;
+  color: #53C6E0;
   background-color: transparent;
 }
 ul.banner-social-buttons {
